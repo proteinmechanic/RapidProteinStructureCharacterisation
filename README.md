@@ -11,7 +11,7 @@ These instructions will get you up and running on your local machine.
 
 ## Prerequisites
 
-1) VMD can be downloaded from:
+VMD can be downloaded from:
 
 https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD
 
@@ -19,7 +19,7 @@ After installing VMD make it available in terminal under the command
 
 "vmd".
 
-2) Superpose library. This is available here: 
+Superpose library. This is available here: 
 
 https://launchpad.net/ubuntu/+source/ssm/1.4.0-1)
 
@@ -31,7 +31,7 @@ Once installed from whichever source make it available in terminal under the com
 
 "superpose". 
 
-3) Python2.7, numpy, tqdm and rsync are also required.
+Python2.7, numpy, tqdm and rsync are also required.
 
 ## Characterizing a structure
 
@@ -112,9 +112,11 @@ to one hour.
 ## Authors
 
 **Ashar J. Malik**
+ 
 asharjm@bii.a-star.edu.sg
 
-**Jane R. Allison**  
+**Jane R. Allison**
+
 j.allison@auckland.ac.nz
 ## License
 
